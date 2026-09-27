@@ -3,7 +3,7 @@ https://github.com/user-attachments/assets/fa51053e-bdb0-42e5-a74e-b7162b9eb47e 
 https://github.com/user-attachments/assets/3b44026e-9d68-410e-b3fc-25e9a34cbd8b (skull)
 https://github.com/user-attachments/assets/15e8527e-5559-44a0-bc54-74748bba0210 (wall)
 https://github.com/user-atthments/assets/618b4f63-53ba-48fd-a6e4-c98df872c5da (incubatron)
-https://github.com/user-attachments/assets/4217be3a-583e-413f-988b-3bcd64c8d44c (replace logo)
+https://github.com/user-attachments/assets/64d9031b-8cab-489c-8a94-61f85b5886ef (replace logo)
 https://github.com/user-attachments/assets/28d4425a-38c8-411f-8ba5-fbf96069aa34 (chickn)
 https://github.com/user-attachments/files/32694508/default.mp3 (win sound)
 https://github.com/user-attachments/files/32695781/default.mp3 (lose sound)
