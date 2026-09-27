@@ -1,6 +1,6 @@
-https://github.com/user-attachments/assets/67510bec-8474-45ba-9f09-ca8501662466 (lvl)
+https://github.com/user-attachments/assets/66187b4a-0471-40f7-bf76-f122a4096f87 (lvl)
 https://github.com/user-attachments/assets/fa51053e-bdb0-42e5-a74e-b7162b9eb47e (winstreak)
-https://github.com/user-attachments/assets/791a544d-d164-4092-bcd6-e6032e065120 (skull)
+https://github.com/user-attachments/assets/be10f46e-874c-4777-8ae7-9e56cfc7472c (skull)
 https://github.com/user-attachments/assets/15e8527e-5559-44a0-bc54-74748bba0210 (wall)
 https://github.com/user-atthments/assets/618b4f63-53ba-48fd-a6e4-c98df872c5da (incubatron)
 https://github.com/user-attachments/assets/64d9031b-8cab-489c-8a94-61f85b5886ef (replace logo)
