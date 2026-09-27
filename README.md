@@ -26,3 +26,4 @@ https://github.com/user-attachments/assets/b5c6c873-ebda-421b-aca3-348079dd1b3e 
 https://github.com/user-attachments/assets/029474e3-d4f5-4fe8-ac60-a3873e5dbe39 (onyx 3)
 https://github.com/user-attachments/assets/e799bd46-f091-41b0-8ba2-85727a801073 (nem)
 https://github.com/user-attachments/assets/4411a33f-b4a1-4afa-89b6-6241ac7b5df2 (arch)
+https://github.com/user-attachments/assets/df8fb83c-2549-42b1-a7f0-bf6398dea608 (replace G)
